@@ -18,5 +18,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/argo/argo-formatter-handlebars/issues"
+  },
+  "dependencies": {
+    "handlebars": "~1.0.12"
   }
 }
